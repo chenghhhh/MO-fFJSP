@@ -1,5 +1,5 @@
 # MO-fFJSP
-multi-objectives fuzzy Flexsible Job Shop Scheduling Problem
+multi-objective fuzzy Flexsible Job Shop Scheduling Problem
 
 algo2----IMOSMO (Improved Multi-Objectives Spider Monkey Optimization)
 
